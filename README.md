@@ -1,3 +1,6 @@
+
+App de uma lanchonete
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Durante a pandemia, a utilização de aplicativos para fazer pedidos em restaurantes e supermercados se tornou muito comum.
 
 Neste problema, eu simulei o recebimento de pedidos de um restaurante que faz vendas por aplicativo.
@@ -10,10 +13,12 @@ A classe Produto armazena as seguintes informações:
 
 Produto
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# quantidade: int
-# valor_unitario: float
+ 
+quantidade: int
+val_unitario: float
 As classes Pizza, Hamburguer e Japonesa são subclasse de Produto e possuir as seguintes especificações:
 Pizza
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - sabor: string
 - pedacos: int
